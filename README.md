@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here]()
-- Live Site URL: [Live Site URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/qr-code-card-RtA3f6DPqE)
+- Live Site URL: [Live Site URL here](https://khanoubas1811.github.io/QR_code/)
 
 ## My process
 
